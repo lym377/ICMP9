@@ -3,6 +3,8 @@
 这是一个为 **Alpine Linux** 系统设计的 Xray 一键安装脚本，用于快速部署最新版本的 Xray 代理服务。脚本支持交互式配置，生成标准 VMess 链接，并自动配置开机启动，适合快速搭建代理服务器。
 
 仓库地址: [https://github.com/xinguddos/alpine-xray](https://github.com/xinguddos/alpine-xray)
+
+https://openlist.xn--acg-4i2f.xyz/
 ## 功能特性
 
 - **自动安装最新 Xray**：从 GitHub 获取并安装最新版本的 Xray。
